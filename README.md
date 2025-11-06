@@ -1,6 +1,6 @@
 # Data-Driven Gaussian Process Learning for Interacting Particle Systems
 
-Read our papers here: [Single Kernel](https://doi.org/10.48550/arXiv.2106.02735) [Energy and Alignment Kernels](https://doi.org/10.48550/arXiv.2311.00902) [Multi-Species System](https://arxiv.org/abs/2511.02053)
+Read our line of research here: [Single Kernel](https://doi.org/10.48550/arXiv.2106.02735), [Energy and Alignment Kernels](https://doi.org/10.48550/arXiv.2311.00902), [Multi-Species System](https://arxiv.org/abs/2511.02053)
 
 The code in this repository fully replicates the experiments showcased through our first two papers. This repository is currently under construction, and will soon be updated to include the multi-species framework. 
 
